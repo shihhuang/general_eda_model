@@ -1,0 +1,13 @@
+numpy
+pandas
+pandasql
+matplotlib
+xgboost
+seaborn
+tqdm
+scikit-learn
+PyYAML
+notebook
+jupytext
+jupyter-contrib-nbextensions
+statsmodels
